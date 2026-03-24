@@ -1,4 +1,4 @@
-# ask 1 – Telemetry Data Analysis (Tableau)
+# Task 1 – Telemetry Data Analysis (Tableau)
 
 ### Goal
 In May 2021, Daikibo Industrials gathered telemetry data from nine machines, across four factories worldwide.
