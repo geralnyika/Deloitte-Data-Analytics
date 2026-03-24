@@ -55,4 +55,4 @@ IF [Status] = "unhealthy" THEN 10 ELSE 0 END
 
 ## Output
 
-![Daikibo Dashboard](./Screenshot (567).png)
+![Daikibo Dashboard](https://raw.githubusercontent.com/geralnyika/Deloitte-Data-Analytics/main/Task%201/Screenshot%20(567).png)
