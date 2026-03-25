@@ -1,7 +1,7 @@
 # Deloitte Australia Data Analytics Virtual Job Simulation
 
 ## Overview
-My completion of the Deloitte Australia Data Analytics course is documented in this repository. Forage offers a virtual job simulation. The simulation gave users practical experience. telemetry and workforce data from a real-world data analytics task. Daikibo Industrials, a fictional client. The simulation addressed data classification, dashboard design, and data visualization. between two tasks.
+This repository documents my completion of the Deloitte Australia Data Analytics Virtual Job Simulation on Forage. Working with telemetry and workforce data from a client, Daikibo Industrials, the simulation gave participants practical experience with real-world data analytics tasks. The tasks covered data visualisation in Tableau, data analysis in Excel, and drawing business insights from structured datasets.
 
 ---
 
