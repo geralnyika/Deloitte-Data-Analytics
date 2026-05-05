@@ -1,52 +1,38 @@
 # Deloitte Australia Data Analytics Virtual Job Simulation
+Analytical deliverables from the Deloitte Australia Data Analytics consulting simulation on Forage, utilizing Daikibo Industrials' actual client data for two different tasks.
 
-## Overview
-This repository documents my completion of the Deloitte Australia Data Analytics Virtual Job Simulation on Forage. Working with telemetry and workforce data from a client, Daikibo Industrials, the simulation gave participants practical experience with real-world data analytics tasks. The tasks covered data visualisation in Tableau, data analysis in Excel, and drawing business insights from structured datasets.
 
----
+## Client Context
+Daikibo Industrials operates four global manufacturing facilities:
 
-## Client Background
-Daikibo Industrials operates four global factories:
+| Factory | Location |
+|:---|:---:|
+| Daikibo Factory Meiyo | Tokyo, Japan |
+| Daikibo Factory Seiko | Osaka, Japan |
+| Daikibo Berlin        | Berlin, Germany |
+| Daikibo Shenzhen      | Shenzhen, China |
 
-- Daikibo Factory Meiyo, Tokyo, Japan
-- Daikibo Factory Seiko, Osaka, Japan
-- Daikibo Berlin, Berlin, Germany
-- Daikibo Shenzhen, Shenzhen, China
 
----
+## Task 1 – Machine Failure Analysis (Tableau)
+**The Problem:** In May 2021, Daikibo needed to determine which factory locations and machine types had the highest failure rates.
 
-## Repository Structure
-Deloitte-Data-Analytics/
-├── README.md
-├── Task 1/
-│   ├── README.md
-│   └── Screenshot (567).png
-└── Task 2/
-├── README.md
-└── Equality Table.xlsx
----
-
-## Tasks
-
-### Task 1 – Telemetry Data Analysis (Tableau)
-Examined one month's worth of machine telemetry data from Daikibo's machines in May 2021 to determine which machine types and locations were most affected. An interactive Tableau dashboard with a filter at the factory level was created to examine device-specific failure rates in detail.
+**What I build:** Drilling down into device-specific failure patterns across all four sites is made possible by an interactive Tableau dashboard featuring factory-level filtering.
 
 [View Task 1](./Task%201/README.md)
 
----
 
-### Task 2 – Equality Analysis (Excel)
-Examined pay data for workers in all of Daikibo's factories and positions then categorized an Excel dataset by adding a computed classification column. Every equality score is classified as either Fair, Unfair, or Highly Discriminative. established limits.
+## Task 2 – WorkForce Equality Analysis (Excel)
+**The Problem:** Daikibo needed a systematic way to classify pay equity across all factories and job positions.
+
+**What I built:** An Excel model that classifies each equality score as Fair, Unfair, or Highly Discriminative by calculating a classification column against predetermined thresholds.
 
 [View Task 2](./Task%202/README.md)
 
----
 
 ## Tools Used
 - Tableau (Task 1)
 - Microsoft Excel (Task 2)
 
----
 
 ## Simulation Details
 - Platform: Forage
